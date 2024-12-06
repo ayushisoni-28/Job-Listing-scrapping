@@ -41,6 +41,6 @@ Step 1: Install the necessary libraries (selenium, pandas).
 
 Step 2: Download and set up ChromeDriver.
 
-Step 3: Save the script as scraper.py and run it.
+Step 3: Save the script as scraper.py(Here naukri.py file) and run it.
 
 Step 4: Monitor the output in the terminal and check the CSV file for scraped data.
